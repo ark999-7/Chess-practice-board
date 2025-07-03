@@ -1,17 +1,1 @@
-{
-  "name": "chess-practice-board",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "chess.js": "^1.0.0",
-    "chessboardjsx": "^1.3.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  }
-}
 
